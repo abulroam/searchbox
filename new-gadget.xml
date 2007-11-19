@@ -1,1 +1,16 @@
-dark moon
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+<Module>
+  <ModulePrefs title="search module" height="250" width="250" /> 
+  <Content type="html">
+  <![CDATA[
+
+          <iframe name="I15" scrolling="no" border="0" frameborder="0" align="middle" marginwidth="5" marginheight="5" src="http://www.octopustravel-promo.com/octuk/module/template6/template.htm" width="186" height="207" target="_blank">
+          If you experience a problem viewing this module, please contact the helpdesk.</iframe>
+
+
+
+  ]]>
+  </Content>
+</Module>
+
